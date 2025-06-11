@@ -39,6 +39,7 @@ The process looks like this:
  5. Once feedback has been give, students will have to register the thesis - the exact date depends on whether the students will collect own data or not: 
 
 If data is being collected: 1 week after data collection has ended
+
 If data is already there: Within one week after receiving feedback on the exposé
 
 6. Students should hand in a first version of their thesis at around 3 weeks before the submission deadline if they want to receive feedback.
