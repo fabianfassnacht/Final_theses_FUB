@@ -81,7 +81,15 @@ Getting started with LiDAR:
 
 Some recommended papers for selected topics:
 
-[Jump to literature list](https://github.com/fabianfassnacht/Getting_started_with_LiDAR)
+[Jump to literature list](https://github.com/fabianfassnacht/Reading_list_final_theses_FUB/tree/main)
 
 A selection of tutorials:
 
+You can generally browse all tutorials here: [Jump to home of github repository](https://github.com/fabianfassnacht/) but a list of the most relevant tutorials is also given below:
+
+- supervised classification: [tree species classification](https://github.com/fabianfassnacht/treespeciesclassification/blob/main/README.md)
+- Deep-Learning based supervised classification: [Unet tutorial](https://github.com/fabianfassnacht/PyTorch_Unet_Geotiff_Tutorial)
+- Applying Segment Anything to geotiffs: [SAM Tutorial](https://github.com/fabianfassnacht/SAM2_geotiff_tutorial)
+- One-class classification: [OCC tutorial](https://github.com/fabianfassnacht/Tut_OCC_2020/blob/gh-pages/index.md)
+- Random Forest regression: [RF tutorial](https://github.com/fabianfassnacht/Tut_rf_regression/blob/gh-pages/index.md)
+  
