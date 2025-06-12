@@ -13,7 +13,9 @@ To qualify for writing a thesis with us you will have to
  - Complete the RESEDA online course which you can find here: [Link to the RESEDA online course](https://remote-sensing-at-fu-berlin.github.io/RESEDA/)
  - Be willing to work with scripting languages such as R or Python
  - Be present at the institute at least 1 day per week 
- - Be working full time (Master students) or at least half-time (BSc students) on your thesis 
+ - Be working full time (Master students) or at least half-time (BSc students) on your thesis
+
+We encourage to also prepare for the thesis by working on other online courses such as the one found here: [R Spatial](https://rspatial.org/raster/rs/index.html)
 
 #### Topics offered at the Remote Sensing group at FU Berlin
 
@@ -28,7 +30,13 @@ Our research group currently offers final theses topics related to the following
 
 #### Process of writing a thesis at the Remote Sensing and Geoinformatics group of FU Berlin
 
-To improve the experience of everyone involved in a thesis, we have come up with a streamlined process to make sure that the thesis can be finished within a reasonable time period and at the same time a high-quality supervision of the thesis can be guaranteed. Please also be aware that we have a maximum number of theses we can supervise in parallel. 
+Please also be aware that we have a maximum number of theses we can supervise in parallel. We aim on not supervising more than 13 BSc and 6 (+2) Master theses per year. 
+
+The total supervision time per person is maximal 6 months.
+
+To improve the experience of everyone involved in a thesis, we have come up with a streamlined process to make sure that the thesis can be finished within a reasonable time period and at the same time a high-quality supervision of the thesis can be guaranteed. 
+
+
 
 The process looks like this:
 
@@ -43,7 +51,7 @@ If data is being collected: 1 week after data collection has ended
 If data is already there: Within one week after receiving feedback on the exposé
 
 6. Students should hand in a first version of their thesis at around 3 weeks before the submission deadline if they want to receive feedback.
-7. All students have to present their thesis at least once in the research colloquium of the Remote Sensing and Geoinformatics group. 
+7. All students have to present their thesis at least once in the research colloquium of the Remote Sensing and Geoinformatics group. Once the thesis registered the presentation has to be done within 3 months or if this overlaps with a term break
 
 #### Exposé
 The exposé should cover 2-3 pages and include the following:
