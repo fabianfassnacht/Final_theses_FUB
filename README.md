@@ -53,6 +53,8 @@ If data is already there: Within one week after receiving feedback on the expos�
 6. Students should hand in a first version of their thesis at around 3 weeks before the submission deadline if they want to receive feedback.
 7. All students have to present their thesis at least once in the research colloquium of the Remote Sensing and Geoinformatics group. Once the thesis registered the presentation has to be done within 3 months or if this overlaps with a term break
 
+In case the thesis registration is not completed within 2 months after the first meeting, the agreement to supervise the student can be retracted by the supervisor.
+
 #### Exposé
 The exposé should cover 2-3 pages and include the following:
 
@@ -68,3 +70,18 @@ The exposé should cover 2-3 pages and include the following:
 #### If you are interested please follow the link and fill out the google form:
 
 [Link to form](https://docs.google.com/forms/d/e/1FAIpQLSfkVLWmebZavfqO6NZPy1OthF-27SdOiiYELbPSNn7u5nKSxQ/viewform?usp=dialog)
+
+
+
+#### More resources and reading materials can be found here:
+
+Getting started with LiDAR:
+
+[Jump to LiDAR materials](https://github.com/fabianfassnacht/Getting_started_with_LiDAR)
+
+Some recommended papers for selected topics:
+
+[Jump to literature list](https://github.com/fabianfassnacht/Getting_started_with_LiDAR)
+
+A selection of tutorials:
+
