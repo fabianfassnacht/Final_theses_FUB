@@ -36,7 +36,7 @@ The process looks like this:
  2. Have a first meeting to discuss topics + provide reading materials (for general introduction material see also links at the end of this text)
  3.  Second meeting to fix the topic (latest 1 month after the first meeting) and students start prepare an exposé of their thesis
  4. Student hands in exposé (see below) and receive feedback within two weeks
- 5. Once feedback has been give, students will have to register the thesis - the exact date depends on whether the students will collect own data or not: 
+ 5. Once positive feedback has been given, students will have to register the thesis - the exact date depends on whether the students will collect own data or not: 
 
 If data is being collected: 1 week after data collection has ended
 
@@ -59,3 +59,4 @@ The exposé should cover 2-3 pages and include the following:
 
 #### If you are interested please follow the link and fill out the google form:
 
+[Link to form](https://docs.google.com/forms/d/e/1FAIpQLSfkVLWmebZavfqO6NZPy1OthF-27SdOiiYELbPSNn7u5nKSxQ/viewform?usp=dialog)
